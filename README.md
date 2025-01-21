@@ -1,5 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on implementing VR experiments for researchers who are looking at the effects of fear stimuli on personality states.
+- 🌱 I’m currently studying cognitive neuroscience (psychology major) at University Fribourg.
 
+  
 <!--
 **shammerUF/shammerUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
